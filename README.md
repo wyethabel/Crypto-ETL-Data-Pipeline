@@ -18,4 +18,4 @@ Once the data is in BigQuery, it is then initially inserted into a raw
 housing dataset as a raw data table. This is then cleaned and appended 
 into a clean dataset and table, allowing for running or hot data. 
 
-![Alt text](/Big_Query_1.png?raw=true "Optional Title")
+![Image](https://github.com/wyethabel/Crypto-ETL-Data-Pipeline/blob/main/ReadMe%20Images/Big%20Query%201.png)
